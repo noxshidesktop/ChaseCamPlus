@@ -45,6 +45,17 @@ Open the `ChaseCamPlus` app from the in-game sidebar:
 - **Save As New** stores the current values as a custom preset
 - **Reset Everything** wipes custom presets and returns to defaults
 
+## Screen Shots
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chase.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chasee.png) - If it doesnt work, just enable it: Content/miscellaneous/lua apps/ChaseCamPlus and down there is Disable/Enable
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeeee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeeeee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeeeeee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeeeeeee.png)
+![image_alt](https://github.com/noxshidesktop/ChaseCamPlus/blob/70b7a310f73b0f107a52e33209bd4b543e72e284/media/chaseeeeeeeee.png)
+
 ## Author
 
 Made by additions.
